@@ -1,6 +1,7 @@
 # camera_app
 
 This is a flutter application that captures the image using the device camera and displays the image.
+The apk is located in the main directory
 
 ## Getting Started
 
